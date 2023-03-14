@@ -1,10 +1,10 @@
 /**************************************************************
-			(comment in Portuguese)
-			Crie um programa que contenha uma estrutura
-			chamada medidas, com dois atributos inteiros x e h. O
-			programa deve conter uma função que recebe duas
-			variáveis do tipo estrutura medidas e retorne uma
-			terceira variável do mesmo tipo com as somas de x e h.
+  (comment in Portuguese)
+    Crie um programa que contenha uma estrutura
+    chamada medidas, com dois atributos inteiros x e h. O
+    programa deve conter uma função que recebe duas
+    variáveis do tipo estrutura medidas e retorne uma
+    terceira variável do mesmo tipo com as somas de x e h.
 ****************************************************************/
 
 #include <stdio.h>
